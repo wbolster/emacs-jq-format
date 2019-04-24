@@ -48,6 +48,11 @@ This package deliberately has minimal configuration. Use `M-x customize-group RE
 - `json-reformatter-jq-sort-keys`
 - `json-reformatter-jq-extra-args`
 
+License
+-------
+
+3-clause BSD. Copyright © 2019 wouter bolsterlee.
+
 Credits
 -------
 
