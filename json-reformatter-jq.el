@@ -61,7 +61,7 @@
 (defcustom json-reformatter-jq-sort-keys t
   "Whether to sort keys."
   :group 'json-reformatter-jq
-  :type 'string)
+  :type 'boolean)
 
 (defcustom json-reformatter-jq-extra-args nil
   "Extra arguments to pass to jq."
