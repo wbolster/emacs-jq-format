@@ -6,7 +6,7 @@
 ;; Keywords: languages
 ;; URL: https://github.com/wbolster/emacs-jq-format
 ;; Package-Requires: ((emacs "24") (reformatter "0.3"))
-;; Version: 1
+;; Version: 1.0.0
 
 ;; (this is the osi approved 3-clause "new bsd license".)
 
